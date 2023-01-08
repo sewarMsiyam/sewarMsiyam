@@ -54,9 +54,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sewarmsiyam&show_icons=true&locale=en&layout=compact" alt="sewarmsiyam" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sewarmsiyam&show_icons=true&locale=en" alt="sewarmsiyam" /></p>
+<h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sewarmsiyam&" alt="sewarmsiyam" /></p>
+</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sewarmsiyam" alt="sewarmsiyam" /></a> </p>
 
