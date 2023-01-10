@@ -7,7 +7,7 @@
 
 - 🎨 I have a love for colors and drawing 🖌️
 - 💻📚 I am still learning and learning
-- 💬 Ask me about *I'm happy tp help*
+- 💬 I'm happy tp help
 - 📫 How to reach me *sewarsiyam1@gmail.com*
 
 - [![Whatsapp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me//970568833020/)
