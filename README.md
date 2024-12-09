@@ -9,8 +9,7 @@
 - 💻📚 I am still learning and learning
 - 💬 I'm happy tp help
 - 📫 How to reach me *sewarsiyam1@gmail.com*
-<br/>
-<a href="https://sewardev.vercel.app/" target="blank">portfolio</a>
+- <a href="https://sewardev.vercel.app/" target="blank">portfolio</a>
 - [![Whatsapp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me//970568833020/)
 
 
