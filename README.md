@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm sewar siyam 🌸</h1>
-<h3 align="center">I work as a web designer front-end developer with ux ui design skills (front end designer)</h3>
+<h3 align="center">I work as a web designer front-end developer with ux ui design skills </h3>
 <h6>|  &nbsp; &nbsp; "Design is not just what it looks like and feels like. Design how it works" -Steve Jobs </h6>
 
 
