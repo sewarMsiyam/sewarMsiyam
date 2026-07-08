@@ -6,16 +6,15 @@
 
 <p align="center">
   <a href="mailto:sewarsiyam1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://www.behance.net/YOUR_BEHANCE"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sewar-siyam-44ba25170"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://sewardev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 🚀 What I'm working on
 
-- 🛒 **[BuyFormula](https://buyformula.net)** — a bilingual (AR/EN) e-commerce platform for professional product formulas, built with **Next.js + ASP.NET API**, multi-currency & full RTL/LTR support
+- 🛒 **[BuyFormula](https://buyformulas.vercel.app/)** — a bilingual (AR/EN) e-commerce platform for professional product formulas, built with **Next.js + ASP.NET API**, multi-currency & full RTL/LTR support
 - 📚 Deepening my skills in **TypeScript, Next.js, and SEO optimization**
 - 🎨 I love turning designs into pixel-perfect, responsive interfaces
 
@@ -47,9 +46,8 @@
 ### 🤝 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
-  <a href="https://YOUR_PORTFOLIO_URL">Portfolio</a> •
-  <a href="https://www.behance.net/YOUR_BEHANCE">Behance</a> •
+  <a href="https://www.linkedin.com/in/sewar-siyam-44ba25170">LinkedIn</a> •
+  <a href="["](https://sewardev.vercel.app/)>Portfolio</a> •
   <a href="mailto:sewarsiyam1@gmail.com">Email</a> •
   <a href="https://wa.me/YOUR_NUMBER">WhatsApp</a>
 </p>
